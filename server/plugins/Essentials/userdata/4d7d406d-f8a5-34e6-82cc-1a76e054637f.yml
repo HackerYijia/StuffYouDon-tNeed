@@ -1,0 +1,60 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1681169846319
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681170684523
+  login: 1681170372904
+  kits:
+    dtools: 1681065926589
+    tools: 1681135111053
+money: '233.0'
+last-account-name: NX_YT
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -44.01902396853017
+  y: 111.0
+  z: 111.30087558339802
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -44.98531066494577
+  y: 113.5
+  z: 82.47265759903479
+  yaw: 268.4765625
+  pitch: 90.0
+unlimited:
+- WOOL
+homes:
+  home:
+    world: 33d3bf71-1813-44a2-8b11-721fa716c621
+    world-name: world
+    x: 89.30000001192093
+    y: 19.0
+    z: 328.3626804690585
+    yaw: 177.13009643554688
+    pitch: 90.0
+  ender:
+    world: 33d3bf71-1813-44a2-8b11-721fa716c621
+    world-name: world
+    x: 653.6646233277231
+    y: 29.0
+    z: 686.6938378587515
+    yaw: 80.550048828125
+    pitch: 90.0

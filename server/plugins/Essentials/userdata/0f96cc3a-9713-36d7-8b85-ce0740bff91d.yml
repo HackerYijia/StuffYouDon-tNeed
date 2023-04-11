@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681146293025
+  login: 1681146129672
+money: '0'
+last-account-name: YeelerYee982
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -43.39170456799654
+  y: 111.5
+  z: 117.1409391776555
+  yaw: -13.703125
+  pitch: 70.4453125
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -52.16798768311648
+  y: 114.0
+  z: 84.16928336732983
+  yaw: 16.03125
+  pitch: 22.828125

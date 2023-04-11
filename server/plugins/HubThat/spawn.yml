@@ -1,0 +1,13 @@
+spawn:
+  world:
+    MiniWorld: MiniWorld
+  x:
+    MiniWorld: -44.01902396853017
+  y:
+    MiniWorld: 111.0
+  z:
+    MiniWorld: 111.30087558339802
+  yaw:
+    MiniWorld: -1.0500000715255737
+  pitch:
+    MiniWorld: 90.0

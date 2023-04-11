@@ -1,0 +1,84 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 45
+  - ==: org.bukkit.inventory.ItemStack
+    type: SLIME_BALL
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEVER
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §eC4§e «1»
+      lore:
+      - §eRemote explosives.
+      - §eRight click to place.
+      - §eLeft click to detonate.
+      - §e§l[1]§r§e MINIWORLD᎐ -44, 112, 124
+  - ==: org.bukkit.inventory.ItemStack
+    type: FENCE_GATE
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOD_STAIRS
+  - ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEAVES
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: HOPPER
+  - ==: org.bukkit.inventory.ItemStack
+    type: SEA_LANTERN
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+  - ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 34
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

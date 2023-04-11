@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1681168638840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681164706299
+  login: 1681169106965
+  kits:
+    color: 1681084674467
+money: '0.0'
+last-account-name: Its_Black
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -40.2839735061241
+  y: 112.0
+  z: 125.03154738842301
+  yaw: 52.6798095703125
+  pitch: 11.29275894165039
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -51.30602619531785
+  y: 113.5
+  z: 98.5585033359011
+  yaw: 308.65728759765625
+  pitch: 19.65434455871582

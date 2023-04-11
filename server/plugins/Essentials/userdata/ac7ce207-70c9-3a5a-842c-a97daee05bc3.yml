@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1681168303983
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681169335730
+  login: 1681169258871
+money: '0'
+last-account-name: ALM_Vic
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -45.10236081016935
+  y: 112.0
+  z: 96.44293793375654
+  yaw: -338.2500305175781
+  pitch: 30.7499942779541
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -42.8291300217873
+  y: 111.0
+  z: 110.75685776300116
+  yaw: -17.700002670288086
+  pitch: 17.250001907348633
+homes:
+  home:
+    world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+    world-name: MiniWorld
+    x: -190.30000001192093
+    y: 29.787830989037925
+    z: 123.69999998807907
+    yaw: 122.10009765625
+    pitch: 74.0999984741211

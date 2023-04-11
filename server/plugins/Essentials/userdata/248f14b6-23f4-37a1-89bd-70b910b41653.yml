@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681160606413
+  login: 1681160507629
+money: '0'
+last-account-name: Gmc
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -43.51903215728489
+  y: 111.5
+  z: 122.63339314428562
+  yaw: 11.55000114440918
+  pitch: 89.69999694824219
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -43.28897748263574
+  y: 112.0
+  z: 117.96881014628859
+  yaw: -7.500000476837158
+  pitch: 25.80000114440918

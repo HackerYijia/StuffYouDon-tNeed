@@ -1,0 +1,135 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_AXE
+    damage: 273
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+        DURABILITY: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 53
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+    damage: 462
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+      repair-cost: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 24
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+    amount: 9
+  - ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+    amount: 60
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 509
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_PROJECTILE: 1
+      repair-cost: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: BONE
+    amount: 7
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    amount: 49
+  - ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 62
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    damage: 40
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 1
+        DURABILITY: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    type: SAPLING
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: EYE_OF_ENDER
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 9
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE
+    damage: 3
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        KNOCKBACK: 1
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 4
+    amount: 16
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: BREWING_STAND_ITEM
+  - ==: org.bukkit.inventory.ItemStack
+    type: PUMPKIN
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTMENT_TABLE

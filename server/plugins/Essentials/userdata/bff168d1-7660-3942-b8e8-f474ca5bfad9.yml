@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681080725186
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681080787861
+  login: 1681080218207
+  kits:
+    color: 1681061942833
+money: '40.0'
+last-account-name: Check_FN_
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -48.170446901477774
+  y: 112.0
+  z: 122.08301793163842
+  yaw: 50.85003662109375
+  pitch: 9.899992942810059
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -90.69999998807906
+  y: 130.0
+  z: 130.23260583887304
+  yaw: 298.95013427734375
+  pitch: 1.199992060661316
+nickname: §bCheck§k_FN_

@@ -1,0 +1,139 @@
+inventory:
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+    damage: -1
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_LEGGINGS
+    damage: 322
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_CHESTPLATE
+    damage: 115
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: BANNER
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      patterns:
+      - ==: Pattern
+        color: PURPLE
+        pattern: br
+      - ==: Pattern
+        color: PURPLE
+        pattern: bl
+      - ==: Pattern
+        color: LIME
+        pattern: tr
+      - ==: Pattern
+        color: LIME
+        pattern: tl
+      - ==: Pattern
+        color: LIGHT_BLUE
+        pattern: mc
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_HELMET
+    damage: 113
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 10
+        PROTECTION_FIRE: 10
+        PROTECTION_EXPLOSIONS: 10
+        PROTECTION_PROJECTILE: 10
+        THORNS: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 5
+    amount: 61
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 7
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 8
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: STRING
+  - ==: org.bukkit.inventory.ItemStack
+    type: SLIME_BLOCK
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+    amount: 10
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 13
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: EYE_OF_ENDER
+  - ==: org.bukkit.inventory.ItemStack
+    type: WORKBENCH
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIRT
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: RED_ROSE
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 12
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+    amount: 51
+  - ==: org.bukkit.inventory.ItemStack
+    type: RED_ROSE
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 10
+    amount: 62
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: BANNER
+    amount: 63
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 6
+    amount: 64
+  - null

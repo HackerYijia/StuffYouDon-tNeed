@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1681089859554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681166916638
+  login: 1681166920788
+money: '0'
+last-account-name: Azak25
+lastlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: -46.18744463490047
+  y: 112.0
+  z: 123.49059161632628
+  yaw: 121.2760009765625
+  pitch: 10.968840599060059
+logoutlocation:
+  world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+  world-name: MiniWorld
+  x: 18.915903615875234
+  y: 172.83487735373367
+  z: 146.26864148806078
+  yaw: 316.9180908203125
+  pitch: -13.38835620880127
+homes:
+  idk:
+    world: 265825c4-0f98-45a2-8381-2bb8c18c6950
+    world-name: MiniWorld
+    x: 2.1382770649936296
+    y: 114.0
+    z: 124.24253673570729
+    yaw: 4.1151123046875
+    pitch: 25.53696632385254
